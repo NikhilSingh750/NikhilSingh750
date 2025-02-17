@@ -1,4 +1,4 @@
-# 👋 Hi, I'm NikhilSingh750
+# 👋 Hi, I'm Nikhil Kumar Singh
 
 Welcome to my GitHub! I'm passionate about building software solutions, web application that solve real-world problems and exploring innovative ideas in technology. Here's a little about me:  
 
