@@ -1,4 +1,4 @@
-## <div align="center">Hey there! I'm [Your Name] 👋</div>
+## <div align="center">Hey there! I'm NIKHIL KUMAR SINGH 👋</div>
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F7FF&width=435&lines=Full-Stack+Developer;ASP.NET+%7C+C%23+%7C+JavaScript+%7C+SQL;Building+scalable+web+apps;Passionate+about+tech+%26+problem-solving)
 
@@ -6,6 +6,7 @@
 
 ### 🚀 About Me
 - 🔭 Currently working on **College ERP System**
+- 🔭 Sucessfully build an **Resume Builder Webapp**
 - 🌱 Learning **advanced ASP.NET & system architecture**
 - 👨‍💻 Passionate about **clean code & scalable systems**
 - ⚡ Love **coding challenges & algorithmic problem-solving**
