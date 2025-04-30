@@ -9,7 +9,7 @@
 - 🌱 Learning **advanced ASP.NET & system architecture**
 - 👨‍💻 Passionate about **clean code & scalable systems**
 - ⚡ Love **coding challenges & algorithmic problem-solving**
-- 💬 Ask me about **ASP.NET, C#, JavaScript, and SQL**
+- 💬 Ask me about **ASP.NET, C#, JavaScript,React and SQL**
 
 ---
 
