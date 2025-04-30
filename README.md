@@ -5,7 +5,6 @@
 ---
 
 ### 🚀 About Me
-- 🔭 Currently working on **College ERP System**
 - 🔭 Sucessfully build an **Resume Builder Webapp**
 - 🌱 Learning **advanced ASP.NET & system architecture**
 - 👨‍💻 Passionate about **clean code & scalable systems**
