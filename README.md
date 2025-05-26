@@ -6,7 +6,7 @@
 
 ### 🚀 About Me
 - 🔭 Sucessfully build an **Resume Builder Webapp**
-- 🌱 Learning **advanced ASP.NET & system architecture**
+- 🌱 Learning **advanced ASP.NET**
 - 👨‍💻 Passionate about **clean code & scalable systems**
 - ⚡ Love **coding challenges & algorithmic problem-solving**
 - 💬 Ask me about **ASP.NET, C#, JavaScript,React and SQL**
