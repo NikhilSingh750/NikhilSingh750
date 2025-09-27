@@ -33,8 +33,6 @@
 ### Fees Collection System & College ERP
 - Features: photo upload on first installment, fee tracking modules, overall ERP modules for college use.
 
-> More repos: **Resume Builder**, **Shopora**, **Smart Medical Record System**, **College ERP**, **Language Converter** — see pinned repos on my profile.
-
 ---
 
 ## 🛠 Tech Stack & Tools
@@ -66,49 +64,12 @@ A custom-built e-commerce platform designed to be production-friendly: seller ve
 ### Smart Medical Record System — _Repo_
 Encrypted records with QR-based retrieval — college capstone focusing on privacy and data access flows.
 
-*(Tip: pin these repos on GitHub and add a short `README.md` inside each project showing screenshots, setup steps, and a short video/GIF.)*
-
----
-
-## 📚 What I'm learning now
-- Advanced ASP.NET patterns (dependency injection, middleware, filters, custom model binders)
-- Node.js & Express.js for backend web development
-- Python for algorithms, automation, and data handling
-- System design basics for scalable web apps
-- Performance optimization & caching strategies
-
----
-
-## 🧭 How to evaluate my work (for recruiters)
-- Look for projects with clear **README**, setup instructions, screenshots, and a short demo GIF.
-- Check `Shopora` for architectural decisions (DB schema, seller verification logic, admin workflows).
-- Look at `Resume Builder` for UI polish and production-ready export features.
-
 ---
 
 ## 📬 Connect with me
-- LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/yourprofile)
-- GitHub: [your-github-username](https://github.com/your-github-username)
-- Email: `your.email@example.com`
+- LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/nikhil-singh-aa00222b9/)
+- Email: `nikhilsingh95688@gmail.com`
 
 ---
-
-## 🔧 Quick setup (for reviewers who want to run locally)
-```bash
-# clone repo
-git clone https://github.com/your-github-username/REPO-NAME.git
-cd REPO-NAME
-# update appsettings or connection string to point to local SQL Server
-# open in Visual Studio and run
-```
-
----
-
-## ✨ Final notes & next steps I can do for you
-- Replace the placeholder links and usernames with your real ones (LinkedIn, GitHub, email).
-- I can generate: a custom `README` banner image, project demo GIFs, a one‑page portfolio website (HTML/CSS), or tailor the README to recruiters (resume‑style). Just tell me which repo to prioritize and I’ll update that README + add screenshots and a demo GIF.
-
----
-
 <p align="center">🔥 Always building, learning, and improving — let’s build something great!</p>
 
