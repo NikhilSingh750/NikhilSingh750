@@ -41,9 +41,8 @@
 
 | Category | Tools |
 |----------|-------|
-| **Languages & Frameworks** | C#, ASP.NET MVC, ASP.NET Web Forms, Java, JavaScript, HTML5, CSS3, jQuery, AJAX, React (learning), Node.js (learning), Python (learning) |
-| **Databases & Cloud** | SQL Server, MySQL, Azure |
-| **Dev Tools & IDEs** | Visual Studio, Git, GitHub, Postman |
+| **Languages & Frameworks** | C#, ASP.NET MVC, ASP.NET Web Forms, JavaScript, HTML5, CSS3, jQuery, AJAX, React, Node.js (learning), Python (learning) |
+| **Databases & Cloud** | Microsoft SQL Server, MongoDB |
 | **Other Tools & Skills** | Password hashing with salt, Email & OTP integration, Threading, System Design, DSA, Performance optimization |
 
 ---
