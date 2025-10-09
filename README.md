@@ -1,7 +1,7 @@
 # <div align="center">Hi, I'm <b>Nikhil Kumar Singh</b> 👋</div>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F7FF&center=true&width=600&lines=Full-Stack+Developer;ASP.NET+%7C+C%23+%7C+JavaScript+%7C+SQL;Building+scalable+web+apps;Open+to+collaboration!" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F7FF&center=true&width=600&lines=Full-Stack+Developer;ASP.NET+%7C+C%23+%7C+JavaScript+%7C+SQL;Node.js+%26+MongoDB+Enthusiast;Building+scalable+web+apps;Open+to+collaboration!" />
 </p>
 
 <p align="center">
@@ -11,6 +11,8 @@
   <img src="https://img.shields.io/badge/C%23-239120.svg?style=flat&logo=c-sharp&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" />
 </p>
 
 ---
